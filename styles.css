@@ -12,6 +12,7 @@
 
 .btn button{
 	margin-bottom: 2%;
+	margin-right: -4px;
 	height: 12vh;
 	width: 35vw;
 	transform: translate(-50%,0%);
