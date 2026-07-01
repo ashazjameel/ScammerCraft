@@ -4,8 +4,8 @@
 }
 
 :root{
-	--bth: 1px;		/* border thickness for title */
-	--bth--: -1px;
+	--bth: 5px;		/* border thickness for title */
+	--bth--: -5px;
 }
 
 .body{
