@@ -1,3 +1,8 @@
+@font-face{
+	font-family: Font;
+	src: url("PetalTypes-womgZ 2.otf");
+}
+
 :root{
 	--bth: 1px;		/* border thickness for title */
 	--bth--: -1px;
@@ -8,11 +13,12 @@
 }
 
 .title{
-  text-align: center;
-  font-size: 10vw;
-  margin-top: 2%;
-  color: #735932;
-  text-shadow: var(--bth) var(--bth) black, var(--bth--) var(--bth--) black, var(--bth--) var(--bth) black, var(--bth) var(--bth--) black;
+	text-align: center;
+	font-family: Font;
+  	font-size: 10vw;
+	margin-top: 2%;
+  	color: #735932;
+  	text-shadow: var(--bth) var(--bth) black, var(--bth--) var(--bth--) black, var(--bth--) var(--bth) black, var(--bth) var(--bth--) black;
 }
 
 .btn{
