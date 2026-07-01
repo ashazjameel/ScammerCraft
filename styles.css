@@ -10,6 +10,7 @@
 
 .body{
 	user-select: none;
+	background-image: url("background.jpg");
 }
 
 .title{
